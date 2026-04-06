@@ -1,5 +1,7 @@
 Global Life Expectancy Analysis (2000–2015)
+
 Data Source: World Health Organization (WHO)
+
 📊 Project Overview
 This project provides a longitudinal analysis of global life expectancy trends using data from the WHO Global Health Observatory. By processing raw CSV data in Excel PivotTables, I identified the top-performing nations and calculated the mean life expectancy over 15 years to account for long-term health stability rather than single-year snapshots.
 
@@ -13,8 +15,10 @@ To ensure data integrity and clarity, I applied the following technical workflow
 - Aggregation: Utilized Excel pivot tables to group data by Country and calculate the Average of Life Expectancy.
 - Advanced Filtering: Applied Value Filters within the pivot table to isolate the Top 20 performing nations globally.
 - Visualization: Generated a clustered column chart, optimized for readability with custom axis scaling and sorted in descending order.
+  
 
 <img width="1774" height="870" alt="Average-life-expectancy" src="https://github.com/user-attachments/assets/d248cef8-f31b-423a-aa4d-988a88ee613d" />
+
 
 
 💡 Key Insights
