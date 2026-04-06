@@ -14,6 +14,9 @@ To ensure data integrity and clarity, I applied the following technical workflow
 - Advanced Filtering: Applied Value Filters within the pivot table to isolate the Top 20 performing nations globally.
 - Visualization: Generated a clustered column chart, optimized for readability with custom axis scaling and sorted in descending order.
 
+<img width="1774" height="870" alt="Average-life-expectancy" src="https://github.com/user-attachments/assets/d248cef8-f31b-423a-aa4d-988a88ee613d" />
+
+
 💡 Key Insights
 - Long-Term Stability: The analysis reveals that countries like Japan and Sweden maintain a consistently high mean life expectancy when averaged over 15 years, showing resilient healthcare systems. They are the only two nations in this period to maintain a mean life expectancy exceeding 82.5 years.
 - Regional Dominance: European nations represent over 65% of the Top 20 list (13 out of 20 countries), suggesting a high correlation between European socio-economic models and sustained long-term health outcomes.
