@@ -1,1 +1,21 @@
-Global Life Expectancy Analysis (2000–2019)Data Source: World Health Organization (WHO)📊 Project OverviewThis project provides a longitudinal analysis of global life expectancy trends using data from the WHO Global Health Observatory. By processing raw CSV data through Excel Pivot Tables, I identified the top-performing nations and calculated the mean life expectancy over a 20-year period to account for long-term health stability rather than single-year snapshots.🎯 ObjectivesClean and filter a complex WHO dataset containing over 190 countries.Aggregate data to calculate the 20-year mean life expectancy (2000–2019).Visualize the Top 10 countries to highlight global health leaders.🛠️ Data MethodologyTo ensure data integrity and clarity, I applied the following technical workflow:Data Cleaning: Filtered the raw CSV for the Both sexes category to prevent data duplication.Aggregation: Utilized Excel Pivot Tables to group data by SpatialDim (Country) and calculate the Average of NumericValue (Life Expectancy).Advanced Filtering: Applied Value Filters within the Pivot Table to isolate the Top 10 performing nations globally.Visualization: Generated a clustered column chart, optimized for readability with custom axis scaling and sorted in descending order ($Z \to A$).💡 Key InsightsLong-Term Stability: The analysis reveals that countries like Japan and Switzerland maintain a consistently high mean life expectancy when averaged over two decades, showing resilient healthcare systems.Data Observation: [Insert one specific observation here, e.g., "The gap between the #1 and #10 ranked countries is only X years, showing a tight margin among top-tier health providers."]
+Global Life Expectancy Analysis (2000–2015)
+Data Source: World Health Organization (WHO)
+📊 Project Overview
+This project provides a longitudinal analysis of global life expectancy trends using data from the WHO Global Health Observatory. By processing raw CSV data in Excel PivotTables, I identified the top-performing nations and calculated the mean life expectancy over 15 years to account for long-term health stability rather than single-year snapshots.
+
+🎯 Objectives
+Clean and filter a complex WHO dataset containing over 190 countries.
+Aggregate data to calculate the 20-year mean life expectancy (2000–2019). 
+Visualize the Top 10 countries to highlight global health leaders.
+
+🛠️ Data Methodology
+To ensure data integrity and clarity, I applied the following technical workflow:
+- Aggregation: Utilized Excel pivot tables to group data by Country and calculate the Average of Life Expectancy.
+- Advanced Filtering: Applied Value Filters within the pivot table to isolate the Top 20 performing nations globally.
+- Visualization: Generated a clustered column chart, optimized for readability with custom axis scaling and sorted in descending order.
+
+💡 Key Insights
+- Long-Term Stability: The analysis reveals that countries like Japan and Sweden maintain a consistently high mean life expectancy when averaged over 15 years, showing resilient healthcare systems. They are the only two nations in this period to maintain a mean life expectancy exceeding 82.5 years.
+- Regional Dominance: European nations represent over 65% of the Top 20 list (13 out of 20 countries), suggesting a high correlation between European socio-economic models and sustained long-term health outcomes.
+- Pacific Excellence: Despite the European volume, the Asia-Pacific region (Japan, Australia, Singapore, and New Zealand) holds a significant presence in the Top 10, showing that high-density, developed urban centers in this region are global outliers for longevity.
+
