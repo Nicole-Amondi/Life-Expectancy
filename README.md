@@ -22,7 +22,7 @@ To ensure data integrity and clarity, I applied the following technical workflow
 
 
 💡 Key Insights
-- Long-Term Stability: The analysis reveals that countries like Japan and Sweden maintain a consistently high mean life expectancy when averaged over 15 years, showing resilient healthcare systems. They are the only two nations in this period to maintain a mean life expectancy exceeding 82.5 years.
+- Long-Term Stability: The analysis reveals that countries like Japan and Sweden maintain a consistently high mean life expectancy when averaged over 15 years, showing resilient healthcare systems. They are the only two nations in this period to maintain a mean life expectancy exceeding 82.5 years. The countries with higher life expectancy are typically more developed, indicating better healthcare systems and living conditions.
 - Regional Dominance: European nations represent over 65% of the Top 20 list (13 out of 20 countries), suggesting a high correlation between European socio-economic models and sustained long-term health outcomes.
 - Pacific Excellence: Despite the European volume, the Asia-Pacific region (Japan, Australia, Singapore, and New Zealand) holds a significant presence in the Top 10, showing that high-density, developed urban centers in this region are global outliers for longevity.
 
